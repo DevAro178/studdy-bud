@@ -1,3 +1,4 @@
-https://www.youtube.com/watch?v=PtQiiknWUcI&t=5779s
-timestamp:
-5:36:09
+https://zappycode.com/tutorials/deploy-django-project-on-pythonanywhere
+
+
+best blog to upload Django
